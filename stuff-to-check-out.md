@@ -36,8 +36,8 @@
 - MobX
 - React Dev Tools
 - Redux Dev Tools
-- PropTypes
 - React TypeScript
+- PropTypes
 - React Spring
 - React Router
 - Formik
