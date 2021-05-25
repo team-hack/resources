@@ -4,7 +4,7 @@
 
 ## Bootstrapping
 
-- HTML Bootstrap
+- [HTML Boilerplate](https://html5boilerplate.com/)
 - Initializr.com
 
 ## Styling
