@@ -30,8 +30,8 @@
 ## React
 
 - [React Interview Questions](https://github.com/sudheerj/reactjs-interview-questions)
-- Redux
-- Saga
+- [Redux](https://redux.js.org/)
+- [Redux Saga](https://redux-saga.js.org/)
 - Relay
 - MobX
 - React Dev Tools
