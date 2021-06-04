@@ -49,6 +49,7 @@
 - [React Hook Form](https://react-hook-form.com/)
 - [i8ln](https://react.i18next.com/)
 - [Memos](https://reactjs.org/docs/react-api.html#reactmemo)
+- [Redux-Reselect](https://github.com/reduxjs/reselect)
 - [Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
 - [Storybook.js](https://storybook.js.org/)
 - [React.live](https://react-live.netlify.app/)
