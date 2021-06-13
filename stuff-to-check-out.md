@@ -115,3 +115,4 @@
 
 - [Bear.App](https://bear.app/) (Mac)
 - [Readme.so](https://readme.so/)
+- [Markdown Cheatsheet](https://www.markdownguide.org/cheat-sheet)
