@@ -109,3 +109,9 @@
 ## Chrome Extensions / Useful
 
 - [Built With](https://builtwith.com/)
+- [Testing Playground](https://testing-playground.com/)
+
+## Editors / Guides
+
+- [Bear.App](https://bear.app/) (Mac)
+- [Readme.so](https://readme.so/)
